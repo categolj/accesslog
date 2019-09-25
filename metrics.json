@@ -1,7 +1,7 @@
 {
   "data" : {
-    "resultType" : "matrix",
-    "result" : [ ]
+    "result" : [ ],
+    "resultType" : "matrix"
   },
   "status" : "success"
 }
