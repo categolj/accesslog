@@ -1,7 +1,8 @@
 {
   "data" : {
+    "resultType" : "matrix",
     "result" : [ {
-      "values" : [ [ 1569470400, 4 ] ],
+      "values" : [ [ 1569470400, 2 ] ],
       "metric" : {
         "path" : "total"
       }
@@ -11,7 +12,7 @@
         "path" : "/entries/376"
       }
     }, {
-      "values" : [ [ 1569470400, 1 ] ],
+      "values" : [ [ 1569470400, 0 ] ],
       "metric" : {
         "path" : "/entries/377"
       }
@@ -33,6 +34,16 @@
     }, {
       "values" : [ [ 1569470400, 0 ] ],
       "metric" : {
+        "path" : "/entries/418"
+      }
+    }, {
+      "values" : [ [ 1569470400, 0 ] ],
+      "metric" : {
+        "path" : "/entries/432"
+      }
+    }, {
+      "values" : [ [ 1569470400, 0 ] ],
+      "metric" : {
         "path" : "/entries/445"
       }
     }, {
@@ -46,7 +57,7 @@
         "path" : "/entries/467"
       }
     }, {
-      "values" : [ [ 1569470400, 1 ] ],
+      "values" : [ [ 1569470400, 0 ] ],
       "metric" : {
         "path" : "/entries/475"
       }
@@ -55,8 +66,7 @@
       "metric" : {
         "path" : "/entries/478"
       }
-    } ],
-    "resultType" : "matrix"
+    } ]
   },
   "status" : "success"
 }
