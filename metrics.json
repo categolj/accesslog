@@ -1,42 +1,62 @@
 {
   "data" : {
-    "resultType" : "matrix",
     "result" : [ {
-      "values" : [ ],
+      "values" : [ [ 1569470400, 4 ] ],
       "metric" : {
         "path" : "total"
       }
     }, {
-      "values" : [ ],
+      "values" : [ [ 1569470400, 0 ] ],
       "metric" : {
         "path" : "/entries/376"
       }
     }, {
-      "values" : [ ],
+      "values" : [ [ 1569470400, 1 ] ],
       "metric" : {
         "path" : "/entries/377"
       }
     }, {
-      "values" : [ ],
+      "values" : [ [ 1569470400, 0 ] ],
+      "metric" : {
+        "path" : "/entries/380"
+      }
+    }, {
+      "values" : [ [ 1569470400, 0 ] ],
+      "metric" : {
+        "path" : "/entries/408"
+      }
+    }, {
+      "values" : [ [ 1569470400, 1 ] ],
       "metric" : {
         "path" : "/entries/417"
       }
     }, {
-      "values" : [ ],
+      "values" : [ [ 1569470400, 0 ] ],
+      "metric" : {
+        "path" : "/entries/445"
+      }
+    }, {
+      "values" : [ [ 1569470400, 1 ] ],
       "metric" : {
         "path" : "/entries/450"
       }
     }, {
-      "values" : [ ],
+      "values" : [ [ 1569470400, 0 ] ],
+      "metric" : {
+        "path" : "/entries/467"
+      }
+    }, {
+      "values" : [ [ 1569470400, 1 ] ],
       "metric" : {
         "path" : "/entries/475"
       }
     }, {
-      "values" : [ ],
+      "values" : [ [ 1569470400, 0 ] ],
       "metric" : {
         "path" : "/entries/478"
       }
-    } ]
+    } ],
+    "resultType" : "matrix"
   },
   "status" : "success"
 }
