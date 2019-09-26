@@ -1,22 +1,42 @@
 {
   "data" : {
+    "resultType" : "matrix",
     "result" : [ {
+      "values" : [ ],
       "metric" : {
         "path" : "total"
-      },
-      "values" : [ ]
+      }
     }, {
+      "values" : [ ],
       "metric" : {
         "path" : "/entries/376"
-      },
-      "values" : [ ]
+      }
     }, {
+      "values" : [ ],
+      "metric" : {
+        "path" : "/entries/377"
+      }
+    }, {
+      "values" : [ ],
       "metric" : {
         "path" : "/entries/417"
-      },
-      "values" : [ ]
-    } ],
-    "resultType" : "matrix"
+      }
+    }, {
+      "values" : [ ],
+      "metric" : {
+        "path" : "/entries/450"
+      }
+    }, {
+      "values" : [ ],
+      "metric" : {
+        "path" : "/entries/475"
+      }
+    }, {
+      "values" : [ ],
+      "metric" : {
+        "path" : "/entries/478"
+      }
+    } ]
   },
   "status" : "success"
 }
