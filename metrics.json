@@ -1,7 +1,22 @@
 {
   "data" : {
-    "resultType" : "matrix",
-    "result" : [ ]
+    "result" : [ {
+      "metric" : {
+        "path" : "total"
+      },
+      "values" : [ ]
+    }, {
+      "metric" : {
+        "path" : "/entries/376"
+      },
+      "values" : [ ]
+    }, {
+      "metric" : {
+        "path" : "/entries/417"
+      },
+      "values" : [ ]
+    } ],
+    "resultType" : "matrix"
   },
   "status" : "success"
 }
